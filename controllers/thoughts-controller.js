@@ -108,5 +108,5 @@ const thoughtsController = {
     }
 
 };
-
+// Export module thought controller
 module.exports = thoughtsController;
