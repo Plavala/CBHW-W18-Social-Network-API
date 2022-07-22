@@ -9,7 +9,9 @@ My challenge was to build an API for a social network web application where user
 - GitHub: https://github.com/Plavala/CBHW-W18-Social-Network-API
 - Clone GitHub repository provided
 - Open with VScode or any Code reader that works similar to VScode.
-- Right click file index.html and select "open with live server"
+- run on npm start
+- test on insomnia
+- video of it trying to be tested : https://drive.google.com/file/d/1t0wmTDzwvjYQYwoY-I9TKnPZp5y72U09/view
 
 ## Help
 If running into probloms plese contact Me "Oscar Salagdo" and i will get back to you as soon as I can:
